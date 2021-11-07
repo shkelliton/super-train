@@ -1,0 +1,17 @@
+{
+  "name": "ticket_man",
+  "version": "1.0.0",
+  "description": "Practice for ticket bot",
+  "main": "ticket_man_practice.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "enmap": "^5.8.2",
+    "eslint": "^7.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shan",
+  "license": "ISC"
+}

@@ -1,0 +1,45 @@
+Enmap, discord.js, 
+
+Ticket bot to open channels with -something 
+Channelname #ticket-0000
+close channel with -close or whatever
+
+
+setup:
+json
+beautify
+eslint
+npm
+node
+
+message author id - admin or creator can close
+
+LET ACTS AS A VARIABLE THING
+//Can use either let or var, let is newer. Var is declared in a weird way
+let user = 'John';
+let age = 25;
+let message = 'Hello';
+
+
+$ is getelementbyID - so ${name} would look for the variable name
+Whereas ${'name'} would assume it is a string and say 'name' 
+Backticks embed the expression inside ${...} into the string.
+alert( `hello ${"name"}` ); // hello name
+
+//NOTES + TO DO
+// find height of wrapper, set image height same as wrapper
+// scale for content
+// make content height wrapperheight- headerheight
+// figure out better name title color/method
+// make home page 'About' page
+// gallery function for artwork pages - multiple separate galleries for Sequential
+// and character design?
+// for pricing page, refer to image saved
+// format like java with methods and that garbage
+
+//IF POSSIBLE/IF TIME ALLOWS
+//See if able to make website actually send an email for inquiries?
+//see if you can change format based on device, is there a detect mobile function?
+//maybe logo instead of actual name, put name in content area in its own div or something
+//If I'm feeling adventurous, make a little animation around logo
+//remove other navbar options on other pages
