@@ -13,6 +13,7 @@ btnNext.addEventListener('click', nextVideo);
 
 //vids
 
+//samples https://samplelib.com/sample-mp4.html
 const vids = ["sample-5s.mp4", "sample-10s.mp4"];
 let vidPlaying = 0;
 
