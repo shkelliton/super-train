@@ -19,3 +19,13 @@ function vidAction(event){
 function playVideo(){
 	myVideo.play();
 }
+
+//from https://stackoverflow.com/questions/11171781/full-screen-video-toggle-html
+function goFullscreen(id) {
+  var element = document.getElementById(id);       
+  if (element.mozRequestFullScreen) {
+    element.mozRequestFullScreen();
+  } else if (element.webkitRequestFullScreen) {
+    element.webkitRequestFullScreen();
+  }  
+}
