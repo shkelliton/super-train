@@ -1,0 +1,31 @@
+﻿body{
+	background-color: #B4B8C5;
+}
+li{
+	display: inline-block;
+	padding-right: 20px;
+}
+h1{
+	text-align: center;
+}
+p{
+	background-color: white; 
+	width: inherit; 
+	padding: 20px;
+}
+#navBar{
+	background-color: #28965A; 
+	width = 100%; 
+	padding: 10px; 
+	text-align: center;
+}
+#headerBlock{
+	background-color: #00CC66;
+	width = 100%;
+	padding: 20px;
+}
+#contentBlock{
+	width: 100%; 
+	background-color: #FEFFE; 
+	text-align: center;
+}
