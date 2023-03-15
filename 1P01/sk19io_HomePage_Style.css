@@ -25,7 +25,43 @@ p{
 	padding: 20px;
 }
 #contentBlock{
-	width: 100%; 
+	width: inherit; 
 	background-color: #FEFFE; 
 	text-align: center;
+	margin: 5%;
+}
+
+table, th, tr{
+	background-color: #FEFFE; 
+	text-align: center;
+}
+#headerBlock a{
+	text-decoration: none;
+	color:white;
+}
+#navBar a{
+	text-decoration: none;
+	color:white;
+}
+img{
+	display:inline-block;
+	width: 100px;
+	margin: 10px;
+}
+#contentRow{
+	display: inline-block;
+}
+#quiz{
+	display: inline;
+	text-align: left;
+	list-style-type: upper-roman;
+}
+#quiz li{
+	display: inline;
+	list-style-type: upper-roman;
+}
+#tableForm{
+	margin-left:40%;
+	padding: 20px;
+	background-color: #FEFFE;
 }
